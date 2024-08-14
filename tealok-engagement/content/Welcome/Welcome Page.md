@@ -33,4 +33,3 @@ Tealok is more than a product; it’s a movement towards a better, more humane d
 **[Sign Up for Updates]**
 
 **[Contribute to Tealok on GitHub]**
-
