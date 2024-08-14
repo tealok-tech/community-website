@@ -1,6 +1,10 @@
 body {
     font-family: 'Verdana', sans-serif;
     margin: 50px 25px;
+    background-image: url("/static/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 a {
