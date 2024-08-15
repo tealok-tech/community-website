@@ -4,7 +4,7 @@ body:
 
 Tealok is built on a foundation of robust technology, designed to offer unparalleled privacy, security, and ease of use. For those interested in what’s under the hood, here’s a closer look at the technical side of Tealok.
 
----
+----
 
 #### **The Hardware: Lar – Your Digital Powerhouse**
 
@@ -19,7 +19,7 @@ Tealok is built on a foundation of robust technology, designed to offer unparall
   
   - **DIY Enthusiasts**: While we recommend our pre-assembled units for ease of use, Tealok can also be installed on custom-built hardware for those who prefer to tailor their system to specific needs. Our recommended specs are available for those who want to build their own Lar.
 
----
+----
 
 #### **The Software: Tealok – The Brain Behind the System**
 
@@ -37,7 +37,7 @@ Tealok is built on a foundation of robust technology, designed to offer unparall
   - **Durable Storage**: Tealok’s storage system is designed to last, with automatic backups to ensure that your data is preserved even in the event of hardware failure.
   - **User Authentication**: Tealok includes a secure onboarding flow for setting up user accounts and managing access to services, ensuring that your data remains private and protected.
 
----
+----
 
 #### **Networking: Seamless and Secure Connectivity**
 
@@ -50,7 +50,7 @@ Tealok is built on a foundation of robust technology, designed to offer unparall
   - **TLS Certificates**: Tealok automatically provisions TLS certificates for secure connections, ensuring that all data transmitted over the network is encrypted and protected.
   - **VPN Support**: While not required, Tealok can integrate with VPNs like Tailscale to provide additional security and privacy for your networked services.
 
----
+----
 
 #### **Open Source and Community-Driven**
 
@@ -65,7 +65,7 @@ Tealok is not just a product; it’s a community. Our software is open source, a
   - **LLM Workloads**: We are exploring the potential for local LLM (Large Language Model) workloads, allowing users to run advanced AI models securely within their own home network.
   - **Networked Tealoks**: Imagine a network of Tealoks that share resources and capabilities. This is a future we are excited about, and we invite you to join us in making it a reality.
 
----
+----
 
 #### **Join the Tealok Community**
 
@@ -73,4 +73,4 @@ Whether you’re a seasoned developer or simply curious about the technology beh
 
 **[Contribute to Tealok on GitHub]**
 
-**[Join Our Community Forum]
+**[Join Our Community Forum]** (Coming Soon)
