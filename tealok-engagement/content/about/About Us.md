@@ -32,7 +32,7 @@ Tealok was founded by a team of individuals who are passionate about technology,
 
 #### **Eli Ribble**
 
-**Co-Founder** _Eli's bio placeholder. We’ll add his bio once it’s available._
+**Co-Founder** Eli is really just a hacker that apparently escaped his mother's basement. He went to school for a while at the University of Utah and eventually moved on to a string of small companies and startups. He's worked on graphics engines, driving simulators, mobile device fleet management, online interviewing, pest control logistics, and 3D printing software. Recently he did a stint at Google working on devices that listen to you in your home. He's driven by the idea of giving people superpowers and the promise that computing has yet to fulfill in making everyone more powerful.
 
 ---
 
