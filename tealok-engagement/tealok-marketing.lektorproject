@@ -1,5 +1,5 @@
 [project]
-name = Tealok Community
+name = Tealok Blog
 
 [servers.production]
 target = rsync://deploy@www.tealok.tech/var/www/html/tealok-blog?delete
