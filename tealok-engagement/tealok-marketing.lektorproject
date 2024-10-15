@@ -2,4 +2,4 @@
 name = Tealok Community
 
 [servers.production]
-target = rsync://deploy@www.tealok.tech/var/www/html/tealok?delete
+target = rsync://deploy@www.tealok.tech/var/www/html/tealok-blog?delete
