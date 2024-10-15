@@ -1,34 +1,39 @@
 <!doctype html>
 <head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="{{ '/static/style.css'|url }}">
-  <link rel="shortcut icon" type="image/png" href="{{ '/static/favicon.png'|url }}">
-  <title>{% block title %}Welcome{% endblock %} — Tealok Blog</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="{{ '/static/style.css'|url }}">
+	<link rel="shortcut icon" type="image/png" href="{{ '/static/favicon.png'|url }}">
+	<title>{% block title %}Welcome{% endblock %} — Tealok Blog</title>
 </head>
 <body>
-  <header>
-    <h1>Tealok Blog</h1>
-    <nav>
-      <ul class="nav navbar-nav">
-        <li{% if this._path == '/' %} class="active"{% endif
-          %}><a href="{{ '/'|url }}">Welcome</a></li>
-        {% for href, title in [
-          ['/blog', 'Blog'],
-          ['/how_it_works', 'How it Works'],
-          ['/technical_details','Technical Details'],
-          ['/get_involved','Get Involved'],
-          ['/about', 'About Us']
-        ] %}
-          <li{% if this.is_child_of(href) %} class="active"{% endif
-            %}><a href="{{ href|url }}">{{ title }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </header>
-  <div class="page">
-    {% block body %}{% endblock %}
-  </div>
-  <footer>
-    &copy; Copyright 2024 by Eli Ribble.
-  </footer>
+	<header>
+		<section class="logo-area">
+			<img src="{{ '/static/logo-no-words.png'|url }}"/>
+			<h1 class="grow">Tealok Blog</h1>
+		</section>
+		<nav>
+			<ul class="nav navbar-nav">
+				<li{% if this._path == '/' %} class="active"{% endif %}>
+					<a href="{{ '/'|url }}">Welcome</a>
+				</li>
+				{% for href, title in [
+					['/blog', 'Blog'],
+					['/how_it_works', 'How it Works'],
+					['/technical_details','Technical Details'],
+					['/get_involved','Get Involved'],
+					['/about', 'About Us']
+				] %}
+					<li{% if this.is_child_of(href) %} class="active"{% endif%}>
+						<a href="{{ href|url }}">{{ title }}</a>
+					</li>
+				{% endfor %}
+			</ul>
+		</nav>
+	</header>
+	<div class="page">
+		{% block body %}{% endblock %}
+	</div>
+	<footer>
+		&copy; Copyright 2024 by Eli Ribble.
+	</footer>
 </body>

@@ -22,6 +22,14 @@ header, footer, div.page {
     padding: 20px 30px;
 }
 
+header section.logo-area {
+	width: 100%;
+	display: flex;
+	gap: 16px;
+}
+.grow {
+	flex-grow: 1;
+}
 header h1 {
     color: #169bbd;
     margin: 0;
