@@ -4,7 +4,7 @@
   <h2>{{ this.title }}</h2>
   {{ this.body }}
 	<ul>
-	{% set blogroot = site.get("/blog") %}
+	{% set blogroot = site.get(this.root) %}
   {% for page in blogroot.children %}
 		<li><a href="{{ page|url }}">{{ page.title }}</a></li>
 	{% endfor %}
