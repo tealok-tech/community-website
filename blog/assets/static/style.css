@@ -18,6 +18,11 @@ body {
 	display: flex;
 	background: #daeef3;
 	padding: 10px;
+	text-align: center;
+	line-height: 50px;
+}
+.header h1 {
+	margin-left: 20px;
 }
 .leftSide { grid-area: leftSide; }
 .blog-summary {
