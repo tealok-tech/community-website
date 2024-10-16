@@ -1,6 +1,3 @@
-# Tealok: Designed for You
-
-
 # The Benefits of Owning Your Digital Space
 
 In today’s digital world, information is scattered across countless devices, apps, and cloud services, making it difficult to find what you need when you need it. You’ve likely experienced the frustration of searching for that one important document, photo, or message buried in a sea of files. Or perhaps you’ve worried about how to keep cherished memories—like family photos and videos—safe from disappearing into the void or being compromised by hackers.

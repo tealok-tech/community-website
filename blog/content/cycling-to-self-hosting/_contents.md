@@ -1,5 +1,3 @@
-# From Cycling to Self-Hosting: Finding Freedom in the Journey
-
 I am an avid cyclist. There’s nothing quite like the feeling of moving fast through beautiful countryside, smelling the lemon blossoms, spotting wildlife, and having the freedom to explore off the beaten path. The challenge of a big climb is exhilarating, and the sense of flying down the other side is pure joy. What I love most, though, is the sense of community—sharing rides with fellow cyclists as we challenge each other and revel in the adventure.
 
 In recent years, electric bikes have become more affordable and capable, with longer ranges and the ability to handle all kinds of terrain. Initially, there were strong feelings within the cycling community that e-bikes somehow took away from the true experience of cycling, as they seemed to remove the physical challenge. But as I’ve seen more people out in the countryside, smiling as they experience the joy of riding, I’ve realized that e-bikes haven’t ruined cycling—they’ve made it more accessible. Now, more people can share in the freedom, speed, and beauty that cycling offers.
