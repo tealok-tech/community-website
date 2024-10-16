@@ -1,12 +1,13 @@
 {% extends "layout.html" %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  <h2>{{ this.title }}</h2>
-  {{ this.body }}
-	<ul>
-	{% set blogroot = site.get(this.root) %}
-  {% for page in blogroot.children %}
-		<li><a href="{{ page|url }}">{{ page.title }}</a></li>
+	{% set blogroot = site.get("/") %}
+ 	{% for entry in blogroot.children %}
+		<div class="blog-summary">
+			<a href="{{ entry|url }}"><h2>{{ entry.title }}</h2></a>
+			<p>{{ entry.author }}</p>
+			<p>{{ entry.summary }}</p>
+			<p>{{ entry }}</p>
+		</div>
 	{% endfor %}
-	</ul>
 {% endblock %}
