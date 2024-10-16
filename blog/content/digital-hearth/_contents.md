@@ -60,6 +60,6 @@ Finally, a little about the name: Tealok is inspired by "Tealloch," a Celtic wor
 
 
 
-![some alt text](/entry/2024-09/digital-hearth/hearth.png "a tooltip")
+![some alt text](hearth.png "a tooltip")
 
 
