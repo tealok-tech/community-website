@@ -33,6 +33,11 @@ body {
 .body {
 	grid-area: body;
 }
+.body img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 .rightSide { 
 	background: #eeeeee;
 	grid-area: rightSide;
