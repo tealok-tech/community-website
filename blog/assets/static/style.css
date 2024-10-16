@@ -26,6 +26,9 @@ body {
 .blog-summary h2 {
 	margin: 0;
 }
+.blog-summary td:nth-child(1) {
+	min-width: 100px;
+}
 .body {
 	grid-area: body;
 }
