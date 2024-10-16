@@ -69,4 +69,4 @@ Tealok was created to provide a better way to manage and control your digital li
 
 If you want to take back control of your digital environment and experience the advantages of having your own reliable, secure, and private system, Tealok is the solution you’ve been looking for.
 
-![some alt text](mantel.png "a tooltip")
+![a pencil drawing of a glowing box on a family mantel ](mantel.png "contrary to popular belief the lar in this picture is not a bigger fire hazard than the candle. I mean, it's right below a calendar. A paper one.")

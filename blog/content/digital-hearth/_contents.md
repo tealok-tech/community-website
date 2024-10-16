@@ -60,6 +60,6 @@ Finally, a little about the name: Tealok is inspired by "Tealloch," a Celtic wor
 
 
 
-![some alt text](hearth.png "a tooltip")
+![a truly epic hearth with a Celtic knot design surrounded by circuits done in water colors](hearth.png "If you used flue powder on this one you'll actually get pulled into the Matrix")
 
 
