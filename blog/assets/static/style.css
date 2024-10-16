@@ -22,6 +22,7 @@ body {
 .leftSide { grid-area: leftSide; }
 .blog-summary {
 	background: #eeeeee;
+	margin-bottom: 10px;
 }
 .blog-summary h2 {
 	margin: 0;
