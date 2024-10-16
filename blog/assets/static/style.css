@@ -22,11 +22,12 @@ body {
 .leftSide { grid-area: leftSide; }
 .blog-summary {
 	background: #eeeeee;
-	margin: 10px;
+}
+.blog-summary h2 {
+	margin: 0;
 }
 .body {
 	grid-area: body;
-	padding: 10px;
 }
 .rightSide { 
 	background: #eeeeee;
