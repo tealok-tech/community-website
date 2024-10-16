@@ -5,9 +5,8 @@
  	{% for entry in blogroot.children %}
 		<div class="blog-summary">
 			<a href="{{ entry|url }}"><h2>{{ entry.title }}</h2></a>
-			<p>{{ entry.author }}</p>
+			<p>Author: {{ entry.author }}</p>
 			<p>{{ entry.summary }}</p>
-			<p>{{ entry }}</p>
 		</div>
 	{% endfor %}
 {% endblock %}
