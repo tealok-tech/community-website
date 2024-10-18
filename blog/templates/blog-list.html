@@ -1,28 +1,20 @@
 {% extends "layout.html" %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-	<!-- show the 'topper' entry at the top, no matter what -->
-	{% set topper = site.get("/digital-hearth") %}
-	<div class="blog-summary">
-		<a href="{{ topper|url }}"><h2>{{ topper.title }}</h2></a>
-		<table>
-		<tr><td>Author</td><td>{{ topper.author }}</td></tr>
-		<tr><td>Published</td><td>{{ topper.pub_date }}</td></tr>
-		<tr><td>Summary</td><td>{{ topper.summary }}</td></tr>
-		</table>
-	</div>
-	{% set blogroot = site.get("/") %}
- 	{% for entry in blogroot.children %}
-		<!-- we already showed the topper, so skip it -->
-		{% if entry != topper %}
-			<div class="blog-summary">
-				<a href="{{ entry|url }}"><h2>{{ entry.title }}</h2></a>
-				<table>
-				<tr><td>Author</td><td>{{ entry.author }}</td></tr>
-				<tr><td>Published</td><td>{{ entry.pub_date }}</td></tr>
-				<tr><td>Summary</td><td>{{ entry.summary }}</td></tr>
-				</table>
-			</div>
-		{% endif %}
-	{% endfor %}
+    <!-- Show the 'topper' entry at the top, no matter what -->
+    {% set topper = site.get("/digital-hearth") %}
+    <div class="blog-summary">
+        <a href="{{ topper|url }}"><h2>{{ topper.title }}</h2></a>
+        <p>{{ topper.summary }}</p>
+    </div>
+    {% set blogroot = site.get("/") %}
+    {% for entry in blogroot.children %}
+        <!-- Skip the 'topper' that has already been shown -->
+        {% if entry != topper %}
+            <div class="blog-summary">
+                <a href="{{ entry|url }}"><h2>{{ entry.title }}</h2></a>
+                <p>{{ entry.summary }}</p>
+            </div>
+        {% endif %}
+    {% endfor %}
 {% endblock %}
