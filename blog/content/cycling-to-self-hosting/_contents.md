@@ -21,6 +21,6 @@ Tealok isn’t just another product; it’s an invitation to join a movement tha
 If this sounds like the kind of journey you want to be on, then join us. Whether you prefer the challenge of the uphill climb or the ease of an electric assist, there’s a place for everyone in this ride toward a better, more autonomous digital future.
 
 
-![A bicycle in a field](cycling.jpg "Eli calls his bike 'black beauty' but that's because he's racist.")
+![A bicycle in a field](cycling.jpg "My adorable bike Grave Gravel on one of my rides in the foothills of the California Central Bally")
 
 
