@@ -1,3 +1,6 @@
 [submodule "tealok-engagement/packages/lektor-markdown-from-file"]
 	path = blog/packages/lektor-markdown-from-file
 	url = https://github.com/tealok-tech/lektor-markdown-from-file
+[submodule "blog2/themes/mainroad"]
+	path = blog2/themes/mainroad
+	url = https://github.com/vimux/mainroad.git
