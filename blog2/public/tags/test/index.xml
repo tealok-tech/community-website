@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Tealok Blog</title>
+    <link>http://localhost:1313/tags/test/</link>
+    <description>Recent content in Test on Tealok Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2024 04:14:54 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Benefits of Owning Your Digital Space</title>
+      <link>http://localhost:1313/post/designed-for-you/</link>
+      <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
+      <guid>http://localhost:1313/post/designed-for-you/</guid>
+      <description>In today’s digital world, information is scattered across countless devices, apps, and cloud services, making it difficult to find what you need when you need it. You’ve likely experienced the frustration of searching for that one important document, photo, or message buried in a sea of files. Or perhaps you’ve worried about how to keep cherished memories—like family photos and videos—safe from disappearing into the void or being compromised by hackers.</description>
+    </item>
+  </channel>
+</rss>
