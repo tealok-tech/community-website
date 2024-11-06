@@ -12,7 +12,7 @@ categories:
 tags:
   - "Test"
   - "Another test"
-menu: main # Optional, add page to a menu. Options: main, side, footer
+#menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
 #thumbnail: "img/placeholder.png" # Thumbnail image
