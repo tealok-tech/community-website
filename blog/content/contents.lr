@@ -1,9 +1,0 @@
-_model: blog-list
----
-title: Recent Entries
----
-root: /entry
----
-body: Some stuff you can read
----
-_discoverable: yes

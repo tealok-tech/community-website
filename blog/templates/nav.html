@@ -1,7 +1,0 @@
-<h1>Find a post</h1>
-<ul>
-	{% set blogroot = site.get("/") %}
-	{% for entry in blogroot.children %}
-	<li><a href="{{ entry|url }}">{{ entry.title }}</a></li>
-	{% endfor %}
-</ul>
