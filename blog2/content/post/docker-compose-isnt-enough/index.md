@@ -103,70 +103,13 @@ Let’s look at some others.
 
 I’m going to choose a few applications that are popular in the self-hosting community, and that I’m familiar with. Some have a single `docker-compose` configuration, others use scripts to generate it, others have a menu of configurations that you choose from.
 
-
-<table>
-  <tr>
-   <td>Software
-   </td>
-   <td>Containers
-   </td>
-   <td>Ports
-   </td>
-   <td>Volumes
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://docs.goauthentik.io/docs/install-config/install/docker-compose">Authentik</a>
-   </td>
-   <td>Postgres, redis, server, worker
-   </td>
-   <td>Http, https
-   </td>
-   <td>Database, redis
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/nextcloud/all-in-one/blob/main/compose.yaml">Nextcloud</a>
-   </td>
-   <td>Master, caddy (optional)
-   </td>
-   <td>Http (main), http (service), https
-   </td>
-   <td>master
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://immich.app/docs/install/docker-compose/">Immich</a>
-   </td>
-   <td>Server, machine-learning, redis, postgres, 
-   </td>
-   <td>2283 (?)
-   </td>
-   <td>Upload, localtime, cache, postgres-data
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://jellyfin.org/docs/general/installation/container/">Jellyfin</a>
-   </td>
-   <td>jellyfin
-   </td>
-   <td>None - host networking
-   </td>
-   <td>Config, cache, media1, media2, fonts
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://docs.paperless-ngx.com/setup/">Paperless NGX</a>
-   </td>
-   <td>redis, db, webserver
-   </td>
-   <td>http
-   </td>
-   <td>Cache, postgres-data, data, media, export, consume
-   </td>
-  </tr>
-</table>
-
+| Software | Containers | Ports | Volumes |
+| -------- | ---------- | ----- | ------- |
+| [Authentik](https://docs.goauthentik.io/docs/install-config/install/docker-compose) | postgres, redis, server, worker | http, https | database, redis |
+| [Nextcloud](https://github.com/nextcloud/all-in-one/blob/main/compose.yaml) | master, caddy (optional) | http (main), http (service), https | master |
+| [Immich](https://immich.app/docs/install/docker-compose/) | server, machine-learning, redis, postgres | 2283 (?) | upload, localtime, cache, postgres-data |
+| [Jellyfin](https://jellyfin.org/docs/general/installation/container/) | jellyfin | None - host networking | config, cache, media1, media2, fonts |
+| [Paperless NGX](https://docs.paperless-ngx.com/setup/) | redis, db, webserver | http | cache, postgres-data, data, media, export, consume |
 
 On the positive side `docker-compose` is **far** **easier than raw docker commands.** Each of these configurations would take dozens, if not hundreds of `docker` commands to reproduce. `Docker-compose` is a huge improvement over the existing alternatives.
 
