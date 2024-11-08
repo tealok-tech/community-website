@@ -3,4 +3,5 @@
 	url = https://github.com/tealok-tech/lektor-markdown-from-file
 [submodule "blog2/themes/mainroad"]
 	path = blog2/themes/mainroad
-	url = https://github.com/vimux/mainroad.git
+	url = https://github.com/tealok-tech/hugo-theme-mainroad.git
+	branch = main
