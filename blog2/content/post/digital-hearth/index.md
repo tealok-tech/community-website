@@ -1,22 +1,20 @@
 ---
-date: 2024-02-02T04:14:54-08:00
+date: 2024-09-26
 draft: false
 params:
-  author: Benjamin Sperry
-title: The Problem with Today’s Digital Services
+  author: benjaminsperry
+title: "Tealok: Your Digital Hearth for a Safer, Smarter Internet"
 weight: 10
-description: "Example article description"
+description: "Discover how Tealok offers a solution to the growing problem of service decay in digital services, putting control back in your hands with accessible, open-source technology."
 categories:
-  - "Category 1"
-  - "Category 2"
+  - "Digital Autonomy"
+  - "Enshittification"
 tags:
-  - "Test"
-  - "Another test"
-#menu: main # Optional, add page to a menu. Options: main, side, footer
+  - "open source"
+  - "lock-in"
 
 # Theme-Defined params
-#thumbnail: "img/placeholder.png" # Thumbnail image
-lead: "Example lead - highlighted near the title" # Lead text
+lead: "Digital services decay on a regular cycle. Tealok offers an open-source solution that puts control back in your hands"
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
@@ -28,12 +26,13 @@ widgets: # Enable sidebar widgets in given order per page
   - "recent"
   - "taglist"
 ---
+## Decay
 Eli and I noticed a troubling pattern in our digital lives—a cycle that many of you might recognize. You find a new app that solves a problem, and it quickly becomes a part of your daily routine. But over time, it starts to change. Features you relied on vanish, ads become more intrusive, or the app demands more of your data. Eventually, it feels like the app is taking more than it’s giving, and you’re forced to find something else. This is so common there's even a term for it (pardon the bluntness): "[enshitification](https://en.wikipedia.org/wiki/Enshittification)." It’s the inevitable decay of services caused by the need to maximize profit at your expense.
 
 This decay is part of a bigger problem tied to the current tech business model. Companies offer their services for free or at a low cost, hoping to attract users. But as soon as they’ve locked in a large user base, they pivot. Investors demand profits, and the easiest way to get those profits is to squeeze every bit of value out of you—through ads, data collection, or premium upgrades. In short, you’re not the customer; you’re the product. This model, driven by [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism), is designed to make money from your attention and behavior.
 
 
-### Why Is This Happening?
+## Why Is This Happening?
 
 The reason tech companies can do this is simple: [they own the space](https://en.wikipedia.org/wiki/Software_as_a_service). Most apps today rely on cloud services, meaning the company controls the environment you use. When they own the space, they have all the power to manipulate how you use their service, making it easy to extract value from you over time. Even software that should be entirely local, like Windows, now requires cloud-based components.
 

@@ -1,22 +1,20 @@
 ---
-date: 2024-02-02T04:14:54-08:00
+date: 2024-09-26
 draft: false
-params:
-  author: Benjamin Sperry
-title: The Benefits of Owning Your Digital Space
+author: benjaminsperry
+title: "Tealok: Designed for You"
 weight: 10
-description: "Example article description"
+description: "Learn how Tealok’s thoughtful design simplifies the complexities of managing your own digital space, offering a seamless, secure, and user-friendly solution to control your data and improve your digital experience."
 categories:
-  - "Category 1"
-  - "Category 2"
+  - "Solutions"
 tags:
-  - "Test"
-  - "Another test"
+  - "Data Sovreignty"
+  - "Lock-In"
 #menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
 #thumbnail: "img/placeholder.png" # Thumbnail image
-lead: "Example lead - highlighted near the title" # Lead text
+lead: "Learn how Tealok’s thoughtful design simplifies the complexities of managing your own digital space, offering a seamless, secure, and user-friendly solution to control your data and improve your digital experience."
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
@@ -40,11 +38,6 @@ This is where Tealok comes in, offering you a chance to own and control your ent
 However, as powerful as this sounds, owning and managing your own system can seem daunting due to several challenges. The first challenge is the hardware. There are a number of decisions to make to get started, let alone planning to stay up-to-date and replacing things as they wear out. Once you get the hardware you have to configure routers, manage firewalls, IP addresses, and security. These technical hurdles can make it difficult of the anyone, even experts, to feel overwhelmed.
 
 Once you’ve gotten a basic system set up you face the challenge of choosing software and configuring it. There are many software vendors out there, and not all applications are designed to work together seamlessly. You may end up manually transferring information between systems. It’s frustrating and inefficient.
-
-
-
-1. 
-
 
 # Tealok’s Solution: A Digital Hearth Designed for You
 

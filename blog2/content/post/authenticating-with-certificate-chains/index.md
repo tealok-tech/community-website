@@ -2,7 +2,7 @@
 date: 2024-10-29
 draft: false
 params:
-  author: Eli Ribble
+  author: eliribble
 title: Authenticating People with Certificate Chains
 weight: 10
 description: "We authenticate constantly. There are various technical solutions for doing this. We should use certificate chains"

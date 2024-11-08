@@ -2,7 +2,7 @@
 date: 2024-11-04
 draft: false
 params:
-  author: Benjamin Sperry
+  author: benjaminsperry
 title: "Take Back Your Browser: How Tealok Turns the Web into Your Personal Space"
 weight: 10
 description: "Discover how Tealok empowers you to shape your online experience, offering control, customization, and a browsing environment free from distractions."

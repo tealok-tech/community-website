@@ -2,7 +2,7 @@
 date: 2024-11-07
 draft: false
 params:
-  author: Eli Ribble
+  author: eliribble
 title: "Docker Compose Isn't Enough"
 weight: 10
 description: "Docker Compose solves real problems in getting applications deployed. It causes problems when deploying many applications. We can do better."

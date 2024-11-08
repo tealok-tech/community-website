@@ -1,8 +1,7 @@
 ---
 date: 2024-10-02
 draft: false
-authors:
- - "benjaminsperry"
+author: "benjaminsperry"
 showAuthor: true
 title: "From Cycling to Self-Hosting: Finding Freedom in the Journey"
 weight: 10
