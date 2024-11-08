@@ -1,22 +1,21 @@
 ---
-date: 2024-02-02T04:14:54-08:00
+date: 2024-10-29
 draft: false
 params:
   author: Eli Ribble
-title: Authenticating with Certificate Chains
+title: Authenticating People with Certificate Chains
 weight: 10
-description: "Example article description"
+description: "We authenticate constantly. There are various technical solutions for doing this. We should use certificate chains"
 categories:
-  - "Category 1"
-  - "Category 2"
+  - "Engineering"
+  - "Ideas"
 tags:
-  - "Test"
-  - "Another test"
+  - "Authentication"
 #menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
 #thumbnail: "img/placeholder.png" # Thumbnail image
-lead: "Example lead - highlighted near the title" # Lead text
+lead: "We should authenticate people like we do websites. With chains."
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page

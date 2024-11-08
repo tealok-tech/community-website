@@ -1,22 +1,20 @@
 ---
-date: 2024-02-02T04:14:54-08:00
+date: 2024-10-02
 draft: false
-params:
-  author: Benjamin Sperry
+authors:
+ - "benjaminsperry"
+showAuthor: true
 title: "From Cycling to Self-Hosting: Finding Freedom in the Journey"
 weight: 10
-description: "Example article description"
+description: "Discover how Tealok empowers you to take control of your data and services, providing an easy, user-friendly solution that ensures privacy and freedom without reliance on big tech."
 categories:
-  - "Category 1"
-  - "Category 2"
+  - "Vision"
 tags:
-  - "Test"
-  - "Another test"
-#menu: main # Optional, add page to a menu. Options: main, side, footer
+  - "Data Sovreignty"
+  - "Solutions"
 
 # Theme-Defined params
-#thumbnail: "img/placeholder.png" # Thumbnail image
-lead: "Example lead - highlighted near the title" # Lead text
+lead: "Take control of your data and your services."
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page

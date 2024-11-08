@@ -1,22 +1,20 @@
 ---
-date: 2024-02-02T04:14:54-08:00
+date: 2024-11-04
 draft: false
 params:
   author: Benjamin Sperry
-title: Tealok Your Key to Personalizing Every Online Experience
+title: "Take Back Your Browser: How Tealok Turns the Web into Your Personal Space"
 weight: 10
-description: "Example article description"
+description: "Discover how Tealok empowers you to shape your online experience, offering control, customization, and a browsing environment free from distractions."
 categories:
-  - "Category 1"
-  - "Category 2"
+  - "Demo"
 tags:
-  - "Test"
-  - "Another test"
-#menu: main # Optional, add page to a menu. Options: main, side, footer
+  - "Web Filter"
+  - "Proxy"
 
 # Theme-Defined params
 #thumbnail: "img/placeholder.png" # Thumbnail image
-lead: "Example lead - highlighted near the title" # Lead text
+lead: "Start with removing ads. Then just get content you want. Then re-add your own data."
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
 pager: true # Enable pager navigation (prev/next) for specific page
