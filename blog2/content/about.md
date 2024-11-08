@@ -7,9 +7,7 @@ menu: main
 ---
 
 Our website builds with [Hugo](https://gohugo.io/) static site generator and
-[Mainroad](https://github.com/vimux/mainroad) theme. This demo allows you to see what Mainroad based website looks like
-before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the
-combination of Hugo and Mainroad can do.
+[Mainroad](https://github.com/vimux/mainroad) theme.
 
 ## About Mainroad
 

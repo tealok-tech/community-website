@@ -31,8 +31,7 @@ mainSections = ["post", "blog", "news"]
 [Params.widgets.social]
   cached = false # activate cache if true
   # Enable parts of social widget
-  instagram = "tealok"
-  linkedin = "tealok"
-  telegram = "username"
-  github = "tealok.tech"
+  instagram = "tealok.tech"
+  linkedin = "tealok/"  
+  github = "tealok-tech"
   email = "contact@tealok.tech"
