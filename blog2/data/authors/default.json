@@ -1,0 +1,15 @@
+{
+    "name": "Gleipnir LLC",
+    "avatar" : "img/avatar.png",
+    "bio": "A company, what do you want?",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/bensperry" },
+        { "twitter": "https://twitter.com/bensperry" },
+        { "instagram": "https://instagram.com/bensperry" },
+        { "medium": "https://medium.com/@bensperry" },
+        { "github": "https://github.com/bensperry" },
+        { "goodreads": "http://goodreads.com/bensperry" },
+        { "keybase": "https://keybase.io/bensperry" },
+        { "reddit": "https://reddit.com/user/bensperry" }
+    ]
+}
