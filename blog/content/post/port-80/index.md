@@ -207,6 +207,6 @@ Okay, they aren’t *problems*, they are just…the kind of bumps we frequently 
 
 We’re developing Tealok in the open, and it will stay open. We also have a company, Gleipnir, which will provide services to self-hosters to overcome these kinds of issues. The goal is to be a single service that will help you overcome arbitrary limits, skills issues, and unknown-unknows to make you successful running Tealok.
 
-At this point, we're still developing the kinds of services that Gleipnir will offer. We're not offering any services yet. If you've got services you'd like to see us offer, [send us an email](mailto:contact@tealok.tech), join [our mailing list](https://mailing-list.tealok.tech/subscription/form) for updates or [contributing to the project](https://github.com/tealok-tech/tealok).
+At this point, we're still developing the kinds of services that Gleipnir will offer. We're not offering any services yet. If you've got services you'd like to see us offer, [send us an email](mailto:contact@tealok.tech), join [our mailing list](https://mailing-list.tealok.tech/subscription/form) for updates or [contribute to the project](https://github.com/tealok-tech/tealok).
 
 Tealok’s designed to make hosting applications operationally simple. So simple, in fact, that anyone who can use a phone can have a Tealok and own their own cloud computing. This means owning your data, owning your services, and owning your destiny. 
