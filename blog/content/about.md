@@ -6,34 +6,24 @@ sidebar: false
 menu: main
 ---
 
-Our website builds with [Hugo](https://gohugo.io/) static site generator and
-[Mainroad](https://github.com/vimux/mainroad) theme.
+## About Tealok
 
-## About Mainroad
+Tealok takes its name from "Teallach," the Gaelic word for hearth—a symbol of warmth, stability, and transformation. In traditional homes, the hearth served as the heart of the household, offering comfort and resilience. Similarly, Tealok is designed to be the digital hearth of modern homes, providing a secure, stable, and empowering foundation for managing technology.
 
-Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.
+At its core, Tealok is a powerful home server, built to put control back into the hands of its users. It transforms the overwhelming forces of the digital world into tools for productivity, creativity, and personal growth—all securely contained within the sanctity of your home. By enabling seamless connectivity and unparalleled privacy, Tealok helps families and individuals harness technology to enhance their lives.
 
-Main features:
+Tealok isn’t just a product; it’s a commitment to autonomy, data security, and enduring innovation. It stands as a bulwark against the chaotic digital landscape, ensuring homes remain places of comfort, prosperity, and peace.
 
-* Responsive design
-* Main & secondary menus
-* Widgetized sidebar
-* Translations. Over 15 languages and counting
-* Configurable theme settings (sidebar position, author box, post navigation, highlight color) via config.toml
-* Hugo internal templates (Open Graph, Schema, Twitter Cards, Disqus, Google Analytics)
-* Wide cross-browser compatibility
-  * Desktop: IE11+, Chrome, Firefox, Safari
-  * Mobile: Android browser (on Android 4.4+), Safari (on iOS 7+), Google Chrome, Opera mini
-* Custom Google Fonts support, MathJax, Table of Contents, SVG icons and much more…
+## About Gleipnir LLC
 
-Learn more on [GitHub](https://github.com/vimux/mainroad). Mainroad theme is released under the
-[GPLv2 license](https://github.com/vimux/mainroad/blob/master/LICENSE.md).
+At Gleipnir LLC, we fight for the user.
 
-## About Hugo
+Technology holds immense power—power that has often been wielded to nudge, cajole, and harvest users for profit. We reject this approach. Instead, we believe technology should protect, serve, and empower. Fighting for the user means having principles, leaving some money on the table, and building tools that genuinely improve the world for more people.
 
-Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and
-configurability. Hugo takes a directory with content and templates and renders them into a full HTML website. With its
-amazing speed and flexibility, Hugo makes building websites fun again.
+Every decision we make, every product we design, stems from this core mission: **We fight for the user.**
 
-Learn more on [GitHub](https://github.com/gohugoio/hugo). Complete documentation is available at
-[Hugo Documentation](https://gohugo.io/getting-started/).
+The name Gleipnir is inspired by the mythical chain that bound the great wolf Fenrir in Norse mythology—a symbol of ingenuity, strength, and the ability to master powerful forces. Just as Gleipnir held the seemingly uncontainable, we aim to harness the complexities of modern technology, making it accessible, secure, and beneficial to all.
+
+Yes, we’re in business to make money—we all need to eat—but money isn’t our primary motivator. At Gleipnir LLC, we’re here to create solutions that empower individuals and families, ensuring they retain control over their technology. From Tealok to every future innovation, we are committed to making technology a force for good.
+
+Every day. All day. **We fight for the user.**

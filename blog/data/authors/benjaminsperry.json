@@ -1,15 +1,5 @@
 {
     "name": "Benjamin Sperry",
     "avatar" : "img/avatar-benjaminsperry.png",
-    "bio": "Benjamin Sperry is a Biologist who is broadly lauded for murdering mosquitoes all over the world in extremely large numbers and systematically causing them to mate with sterile males. He's also the co-founder of Gleipnir, LLC, which is probably going to change the world any day now.",
-    "social": [
-        { "linkedin": "https://linkedin.com/in/bensperry" },
-        { "twitter": "https://twitter.com/bensperry" },
-        { "instagram": "https://instagram.com/bensperry" },
-        { "medium": "https://medium.com/@bensperry" },
-        { "github": "https://github.com/bensperry" },
-        { "goodreads": "http://goodreads.com/bensperry" },
-        { "keybase": "https://keybase.io/bensperry" },
-        { "reddit": "https://reddit.com/user/bensperry" }
-    ]
+    "bio": "Benjamin Sperry is a biologist who has dedicated his career to improving lives through innovative mosquito control. Driven by a desire to tackle the world’s most pressing problems, he co-founded Gleipnir LLC to address the damaging effects of misaligned incentives in technology. Benjamin believes in empowering people, fostering collaboration, and building solutions that create abundance for all. When not solving complex problems, he enjoys riding his bike and spending time with his amazing wife and four incredible children.",
 }
